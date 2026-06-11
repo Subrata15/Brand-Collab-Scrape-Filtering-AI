@@ -1,0 +1,95 @@
+{
+  "brands": [
+    {
+      "brand_id": "B001",
+      "canonical_name": "Nike",
+      "chain": "Nike Inc.",
+      "aliases": ["nike", "nikeid", "just do it"],
+      "official_handles": ["@nike", "@nikewomen", "@nikerunning"],
+      "logo_url": "https://logo.example.com/nike.png",
+      "common_word": false
+    },
+    {
+      "brand_id": "B002",
+      "canonical_name": "Adidas",
+      "chain": "Adidas AG",
+      "aliases": ["adidas", "adidasoriginals", "three stripes"],
+      "official_handles": ["@adidas", "@adidasoriginals"],
+      "logo_url": "https://logo.example.com/adidas.png",
+      "common_word": false
+    },
+    {
+      "brand_id": "B003",
+      "canonical_name": "Gap",
+      "chain": "Gap Inc.",
+      "aliases": ["gap"],
+      "official_handles": ["@gap"],
+      "logo_url": "https://logo.example.com/gap.png",
+      "common_word": true
+    },
+    {
+      "brand_id": "B004",
+      "canonical_name": "Apple",
+      "chain": "Apple Inc.",
+      "aliases": ["apple", "apple music", "appleid"],
+      "official_handles": ["@apple", "@applemusic"],
+      "logo_url": "https://logo.example.com/apple.png",
+      "common_word": true
+    },
+    {
+      "brand_id": "B005",
+      "canonical_name": "Coach",
+      "chain": "Tapestry Inc.",
+      "aliases": ["coach", "coachny"],
+      "official_handles": ["@coach"],
+      "logo_url": "https://logo.example.com/coach.png",
+      "common_word": true
+    },
+    {
+      "brand_id": "B006",
+      "canonical_name": "Scarlett Whitening",
+      "chain": "Scarlett Indonesia",
+      "aliases": ["scarlett", "scarlett whitening", "scarlettwhitening"],
+      "official_handles": ["@scarlett_whitening"],
+      "logo_url": "https://logo.example.com/scarlett.png",
+      "common_word": false
+    },
+    {
+      "brand_id": "B007",
+      "canonical_name": "Somethinc",
+      "chain": "Somethinc Beauty",
+      "aliases": ["somethinc", "somethinc id"],
+      "official_handles": ["@somethinc"],
+      "logo_url": "https://logo.example.com/somethinc.png",
+      "common_word": false
+    },
+    {
+      "brand_id": "B008",
+      "canonical_name": "Erigo",
+      "chain": "Erigo Apparel",
+      "aliases": ["erigo", "erigostore"],
+      "official_handles": ["@erigostore"],
+      "logo_url": "https://logo.example.com/erigo.png",
+      "common_word": false
+    },
+    {
+      "brand_id": "B009",
+      "canonical_name": "Tokopedia",
+      "chain": "GoTo Group",
+      "aliases": ["tokopedia", "tokped"],
+      "official_handles": ["@tokopedia"],
+      "logo_url": "https://logo.example.com/tokopedia.png",
+      "common_word": false
+    },
+    {
+      "brand_id": "B010",
+      "canonical_name": "Samsung Galaxy",
+      "chain": "Samsung Electronics",
+      "aliases": ["samsung", "galaxy", "samsung galaxy"],
+      "official_handles": ["@samsung", "@samsungmobile"],
+      "logo_url": "https://logo.example.com/samsung.png",
+      "common_word": false,
+      "note": "parent: Samsung; child product line: Galaxy"
+    }
+  ]
+}

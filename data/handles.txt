@@ -1,0 +1,4 @@
+# Satu handle per baris. Prefix tt: untuk TikTok, default Instagram.
+@fitlife_dina
+@beautybyrani
+tt:techreview_budi

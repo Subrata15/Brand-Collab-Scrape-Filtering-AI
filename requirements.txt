@@ -1,0 +1,19 @@
+# Core
+python-dotenv>=1.0.0
+
+# Layer 2 semantic (multilingual embeddings)
+sentence-transformers>=2.6.0
+rapidfuzz>=3.6.0
+
+# Metrics & data
+scikit-learn>=1.4.0
+numpy>=1.26.0
+
+# Ingest (live mode)
+apify-client>=1.6.0
+
+# Demo dashboard
+gradio>=4.20.0
+
+# Dev
+pytest>=8.0.0

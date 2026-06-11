@@ -1,0 +1,22 @@
+{
+  "_comment": "Ground truth manual untuk evaluasi. is_endorsement=true berarti post benar-benar endorsement/kolaborasi berbayar/gifted. brand_id = brand yang di-endorse (null jika bukan endorsement).",
+  "labels": [
+    {"post_id": "P001", "is_endorsement": true,  "brand_id": "B001"},
+    {"post_id": "P002", "is_endorsement": false, "brand_id": null},
+    {"post_id": "P003", "is_endorsement": true,  "brand_id": "B006"},
+    {"post_id": "P004", "is_endorsement": false, "brand_id": null},
+    {"post_id": "P005", "is_endorsement": true,  "brand_id": "B010"},
+    {"post_id": "P006", "is_endorsement": false, "brand_id": null},
+    {"post_id": "P007", "is_endorsement": false, "brand_id": null},
+    {"post_id": "P008", "is_endorsement": true,  "brand_id": "B003"},
+    {"post_id": "P009", "is_endorsement": true,  "brand_id": "B009"},
+    {"post_id": "P010", "is_endorsement": false, "brand_id": null},
+    {"post_id": "P011", "is_endorsement": false, "brand_id": null},
+    {"post_id": "P012", "is_endorsement": true,  "brand_id": "B002"},
+    {"post_id": "P013", "is_endorsement": true,  "brand_id": "B009"},
+    {"post_id": "P014", "is_endorsement": true,  "brand_id": "B006"},
+    {"post_id": "P015", "is_endorsement": false, "brand_id": null},
+    {"post_id": "P016", "is_endorsement": true,  "brand_id": "B008"},
+    {"post_id": "P017", "is_endorsement": false, "brand_id": null}
+  ]
+}

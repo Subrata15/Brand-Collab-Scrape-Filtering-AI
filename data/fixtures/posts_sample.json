@@ -1,0 +1,157 @@
+{
+  "posts": [
+    {
+      "post_id": "P001",
+      "handle": "@fitlife_dina",
+      "platform": "instagram",
+      "caption": "Latihan pagi pakai sepatu baru dari @nike! Diskon 20% pakai kode DINA20 di link bio. #ad #nikepartner",
+      "hashtags": ["#ad", "#nikepartner", "#running"],
+      "mentions": ["@nike"],
+      "links": ["https://nike.com/dina20"]
+    },
+    {
+      "post_id": "P002",
+      "handle": "@fitlife_dina",
+      "platform": "instagram",
+      "caption": "Hari ini santai aja, foto pakai jaket lama. Btw kemarin lari pakai Nike rasanya enak banget.",
+      "hashtags": ["#ootd"],
+      "mentions": [],
+      "links": []
+    },
+    {
+      "post_id": "P003",
+      "handle": "@beautybyrani",
+      "platform": "instagram",
+      "caption": "Glowing skin rahasianya Scarlett Whitening! Udah 3 bulan pakai dan cocok banget. Cek @scarlett_whitening yaa. Kode RANI bisa dipakai. #endorse",
+      "hashtags": ["#endorse", "#skincare"],
+      "mentions": ["@scarlett_whitening"],
+      "links": ["https://shp.ee/scarlett-rani"]
+    },
+    {
+      "post_id": "P004",
+      "handle": "@beautybyrani",
+      "platform": "tiktok",
+      "caption": "GRWM pakai produk favorit. Somethinc serum-nya the best, somethinc emang ga pernah gagal. @somethinc",
+      "hashtags": ["#grwm", "#skincare"],
+      "mentions": ["@somethinc"],
+      "links": []
+    },
+    {
+      "post_id": "P005",
+      "handle": "@techreview_budi",
+      "platform": "tiktok",
+      "caption": "Unboxing Samsung Galaxy terbaru. Terima kasih Samsung Indonesia atas kerjasamanya! #kerjasama #samsungpartner",
+      "hashtags": ["#kerjasama", "#samsungpartner", "#unboxing"],
+      "mentions": ["@samsung"],
+      "links": ["https://samsung.com/id/budi"]
+    },
+    {
+      "post_id": "P006",
+      "handle": "@techreview_budi",
+      "platform": "tiktok",
+      "caption": "Opini jujur: menurutku Apple masih unggul di ekosistem. Tapi ini bukan sponsored ya, murni pendapat.",
+      "hashtags": ["#tech", "#opinion"],
+      "mentions": [],
+      "links": []
+    },
+    {
+      "post_id": "P007",
+      "handle": "@stylebymaya",
+      "platform": "instagram",
+      "caption": "Mind the gap! Foto di stasiun London, vibes-nya dapet banget hari ini.",
+      "hashtags": ["#travel", "#london"],
+      "mentions": [],
+      "links": []
+    },
+    {
+      "post_id": "P008",
+      "handle": "@stylebymaya",
+      "platform": "instagram",
+      "caption": "OOTD pakai koleksi terbaru Gap! Makasih @gap udah kirim. Swipe up buat shopping. #gifted #gappartner",
+      "hashtags": ["#gifted", "#gappartner", "#ootd"],
+      "mentions": ["@gap"],
+      "links": ["https://gap.com/maya"]
+    },
+    {
+      "post_id": "P009",
+      "handle": "@dailyfood_andi",
+      "platform": "tiktok",
+      "caption": "Belanja bahan masak di Tokopedia gampang banget. Checkout pakai @tokopedia. #ad",
+      "hashtags": ["#ad", "#cooking"],
+      "mentions": ["@tokopedia"],
+      "links": ["https://tokopedia.com/andi"]
+    },
+    {
+      "post_id": "P010",
+      "handle": "@dailyfood_andi",
+      "platform": "tiktok",
+      "caption": "Resep nasi goreng simpel buat sahur. Selamat mencoba semuanya!",
+      "hashtags": ["#resep", "#masak"],
+      "mentions": [],
+      "links": []
+    },
+    {
+      "post_id": "P011",
+      "handle": "@stylebymaya",
+      "platform": "instagram",
+      "caption": "Jalan-jalan sore pakai outfit nyaman. Coach bag-nya udah lama punya, masih awet.",
+      "hashtags": ["#ootd"],
+      "mentions": [],
+      "links": []
+    },
+    {
+      "post_id": "P012",
+      "handle": "@fitlife_dina",
+      "platform": "instagram",
+      "caption": "Koleksi Adidas Originals baru udah sampai! Partnership bareng @adidasoriginals, cek link ya. #ad #ambassador",
+      "hashtags": ["#ad", "#ambassador"],
+      "mentions": ["@adidasoriginals"],
+      "links": ["https://adidas.com/dina"]
+    },
+    {
+      "post_id": "P013",
+      "handle": "@dailyfood_andi",
+      "platform": "tiktok",
+      "caption": "Restock bulanan kelar! Semua kebutuhan rumah aku checkout di toko-pedia, gratis ongkir pula. Kode diskon ada di bio ya gaes.",
+      "hashtags": ["#ad"],
+      "mentions": [],
+      "links": ["https://t.example/p13toped"]
+    },
+    {
+      "post_id": "P014",
+      "handle": "@beautybyrani",
+      "platform": "instagram",
+      "caption": "Kulitku makin cerah sejak rutin pakai Scarlettt Whitning body lotion. Repurchase ke sekian kali, link belanja di bio!",
+      "hashtags": ["#endorse"],
+      "mentions": [],
+      "links": ["https://shp.example/p14"]
+    },
+    {
+      "post_id": "P015",
+      "handle": "@beautybyrani",
+      "platform": "tiktok",
+      "caption": "Lagi nyobain serum dari Samthing yang lagi viral, baru seminggu sih jadi belum bisa review jujur.",
+      "hashtags": ["#skincare"],
+      "mentions": [],
+      "links": []
+    },
+    {
+      "post_id": "P016",
+      "handle": "@stylebymaya",
+      "platform": "instagram",
+      "caption": "Jaket lokal dari Erigoo ini nyaman banget dipakai harian. Makasih udah dikirimin, cek koleksi terbarunya ya!",
+      "hashtags": ["#gifted", "#ootd"],
+      "mentions": [],
+      "links": ["https://erigo.example/p16"]
+    },
+    {
+      "post_id": "P017",
+      "handle": "@dailyfood_andi",
+      "platform": "tiktok",
+      "caption": "Pagi ini masak bubur ayam buat sarapan keluarga. Resep simpel, hasilnya enak dan hangat.",
+      "hashtags": ["#resep"],
+      "mentions": [],
+      "links": []
+    }
+  ]
+}
