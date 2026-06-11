@@ -1,7 +1,7 @@
 """Demo dashboard — "cooking show".
 
-Data sudah "dimasak" (fixtures lokal). Dashboard menjalankan step 3–4 (deteksi
-+ tabel) LIVE di depan audiens (STARRY), menampilkan mekanisme per-post:
+Data sudah "dimasak" (fixtures lokal). Dashboard menjalankan step deteksi
++ tabel secara LIVE, menampilkan mekanisme per-post:
 Layer 1 → Layer 2 → sinyal → confidence → keputusan, lalu metrics agregat.
 
 Jalankan:  python -m src.demo.app

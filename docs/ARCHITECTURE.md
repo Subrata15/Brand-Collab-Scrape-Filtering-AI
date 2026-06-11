@@ -1,7 +1,7 @@
 # Arsitektur — Endorsement Detection Pipeline
 
 Dokumen ini menjelaskan **bagaimana** pipeline bekerja dan **mengapa** keputusan
-desain diambil. Ditujukan untuk pembaca teknis (STARRY).
+desain diambil. Ditujukan untuk pembaca teknis.
 
 ## Masalah inti
 
@@ -65,8 +65,7 @@ layer. Lihat `src/store/db.py`.
   portabel. Penulisan di bawah beban (mereka pernah kena CPU bottleneck) ditangani
   dengan batched writes + connection pooling di produksi.
 - **Biaya** (Apify, embedding inference, proxy) bersifat terukur per unit, sehingga
-  bisa diproyeksikan ke 1M record untuk approval budget. Lihat backlog di
-  `log_dev.md`.
+  bisa diproyeksikan ke 1M record untuk keperluan approval budget.
 - **Scraping** idealnya pelengkap: jika tersedia API branded-content / paid-partnership
   resmi, sebagian besar endorsement sudah ter-tag di sumber — jauh lebih akurat &
   mengurangi beban/legal-risk scraping.
